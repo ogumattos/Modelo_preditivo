@@ -1,0 +1,85 @@
+Arquivos obtidos do ProInfo.
+
+
+*****************************
+**** Lista de Protocolos ****
+Obtida em: Ferramentas >> Consultar Protocolos:
+ - Planilhas com os Processos com Julgados.
+
+ Arquivo: '01 - ProInfo - Lista Protocolos v01_0.xlsx'
+
+
+*****************************
+**** Lista de Resoluções ****
+Obtida em: Ferramentas >> Consultar Peças Processuais: 
+ - Planilhas com a relação dos Processos com Resoluções; e
+ - Arquivo PDF com o conteúdo das resoluções.
+
+ Arquivo: '01 - ProInfo - Lista de Resoluções v01_0.xlsx'
+
+
+******************************************
+**** Relatório de Decisões do Período ****
+Obtida em: Relatórios >> Decisões no Período
+ - Planilhas com os resultados dos processos julgados
+
+ Arquivo: '01 - ProInfo - Lista de Decisões v01_0.xlsx'
+
+*******************************
+**** NATUREZAS PESQUISADOS:****
+
+COMPROVAÇÃO, PRESTAÇÃO E TOMADA DE CONTAS-CONVÊNIOS
+COMPROVAÇÃO, PRESTAÇÃO E TOMADA DE CONTAS-RECURSOS ATRIBUÍDOS A ENTIDADES E INSTITUIÇÕES
+COMPROVAÇÃO, PRESTAÇÃO E TOMADA DE CONTAS-RECURSOS ESTADUAIS ATRIBUÍDOS A MUNICÍPIOS
+
+CONVÊNIO
+CONVÊNIO-TERMO DE CONVÊNIO
+
+PARCERIA-ACORDO DE COOPERAÇÃO
+PARCERIA-TERMO DE COLABORAÇÃO
+PARCERIA-TERMO DE FOMENTO
+
+PRESTAÇÃO DE CONTAS-CONVÊNIO
+PRESTAÇÃO DE CONTAS-TERMO DE COLABORAÇÃO
+PRESTAÇÃO DE CONTAS-TERMO DE FOMENTO
+
+PROCESSO DA ADMINISTRAÇÃO-PAGAMENTO-PAGAMENTO DE CONVÊNIOS
+
+TOMADA DE CONTAS-ACORDOS DE COOPERAÇÃO
+TOMADA DE CONTAS-CONVENIO
+TOMADA DE CONTAS-TERMOS DE COLABORAÇÃO
+TOMADA DE CONTAS-TERMOS DE FOMENTO
+TOMADA DE CONTAS-TOMADA DE CONTAS DE PREFEITURAS, ENTIDADES E INSTITUIÇÕES
+
+
+**** Lista de Resoluções ****
+As consultas foram segmentadas em razão da limitação no tamanho dos arquivos de resposta.
+Período:(escolher períodos que tragam menos de 2000 registros) 
+Tipo: Resolução / Resolução da 1ª Câmara / Resolução da 2ª Câmara 
+
+Resoluções -> de 2007 a 2018
+Resolução 2ª Câmara -> a partir de 2013
+Resolução 1ª Câmara -> a partir de 2018
+
+Natureza: naturezas pesquisadas
+
+Opções >> Gerar PDF Único (para texto das resoluções)
+Opções >> Imprimir selecionados >> Planilha (para gerar planilha)
+
+
+**** Lista de Protocolos ****
+As consultas foram segmentadas em razão da limitação no tamanho dos arquivos de resposta.
+
+Julgamento Sessão de Julgamento:(escolher períodos que tragam menos de 2000 registros)
+Situação do Julgamento: Julgado
+
+Opções >> Imprimir selecionados >> Planilha
+
+**** Relatório de Decisões do Período ****
+Período(de 2000 a 2004)
+Tipo de Decisão: Resolução / Resolução da 1ª Câmara / Resolução da 2ª Câmara 
+Natureza: naturezas pesquisadas
+
+
+
+
